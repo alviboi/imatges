@@ -81,7 +81,7 @@
         <mxCell id="MGgXmPBcAFUH-L1dWeP6-13" value="CONDICIONS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="524.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MGgXmPBcAFUH-L1dWeP6-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGgXmPBcAFUH-L1dWeP6-14" target="MGgXmPBcAFUH-L1dWeP6-15">
+        <mxCell id="MGgXmPBcAFUH-L1dWeP6-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGgXmPBcAFUH-L1dWeP6-14" target="MGgXmPBcAFUH-L1dWeP6-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGgXmPBcAFUH-L1dWeP6-14" value="FITXA DEL CURS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -91,13 +91,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGgXmPBcAFUH-L1dWeP6-15" value="PRESSUPOST" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGgXmPBcAFUH-L1dWeP6-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGgXmPBcAFUH-L1dWeP6-16" target="MGgXmPBcAFUH-L1dWeP6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGgXmPBcAFUH-L1dWeP6-16" value="PONENTS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="524.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="619.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGgXmPBcAFUH-L1dWeP6-17" value="TERMINI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
@@ -136,10 +136,19 @@
           <mxGeometry x="900" y="524.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGgXmPBcAFUH-L1dWeP6-26" value="CREACIÓ DE CURS EN AULES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGgXmPBcAFUH-L1dWeP6-27" value="PAGAMENT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1070" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGgXmPBcAFUH-L1dWeP6-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGgXmPBcAFUH-L1dWeP6-48" target="MGgXmPBcAFUH-L1dWeP6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGgXmPBcAFUH-L1dWeP6-48" value="&lt;div&gt;Paricipants&lt;/div&gt;&lt;div&gt;Hores&lt;/div&gt;&lt;div&gt;Dates&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGgXmPBcAFUH-L1dWeP6-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="70" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
